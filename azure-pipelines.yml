@@ -11,4 +11,4 @@ pool:
 
 steps:
 - task: PublishBuildArtifacts@1
--script: python -mhtmllib "hello.html"
+- script: python -mhtmllib "hello.html"
